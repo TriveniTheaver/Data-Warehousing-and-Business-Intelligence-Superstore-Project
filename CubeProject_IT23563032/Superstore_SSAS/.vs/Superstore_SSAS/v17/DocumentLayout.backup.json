@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Dim Location.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Cube_Superstore.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Cube_Superstore.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Ship Mode.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:Dim Ship Mode.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\DSV_Superstore_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{57157184-C871-DEA6-6D8E-41FC783945F8}|Superstore_SSAS.dwproj|solutionrelative:DSV_Superstore_DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cube_Superstore.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Cube_Superstore.cube",
+              "RelativeDocumentMoniker": "Cube_Superstore.cube",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Cube_Superstore.cube [Design]",
+              "RelativeToolTip": "Cube_Superstore.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T15:13:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dim Ship Mode.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Ship Mode.dim",
+              "RelativeDocumentMoniker": "Dim Ship Mode.dim",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Ship Mode.dim [Design]",
+              "RelativeToolTip": "Dim Ship Mode.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T06:43:08.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Location.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Location.dim",
+              "RelativeDocumentMoniker": "Dim Location.dim",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Location.dim [Design]",
+              "RelativeToolTip": "Dim Location.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T06:32:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Dim Product.dim",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T06:30:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T06:27:07.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T06:23:02.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DSV_Superstore_DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\DSV_Superstore_DW.dsv",
+              "RelativeDocumentMoniker": "DSV_Superstore_DW.dsv",
+              "ToolTip": "C:\\Users\\USER\\OneDrive - Sri Lanka Institute of Information Technology\\Y3S1\\IT3021 - Data Warehousing and Business Intelligence\\Superstore_SSAS\\DSV_Superstore_DW.dsv [Design]",
+              "RelativeToolTip": "DSV_Superstore_DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-29T05:47:02.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Superstore_SSAS", "Superstore_SSAS.dwproj", "{57157184-C871-DEA6-6D8E-41FC783945F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57157184-C871-DEA6-6D8E-41FC783945F8}.Development|Default.ActiveCfg = Development
+		{57157184-C871-DEA6-6D8E-41FC783945F8}.Development|Default.Build.0 = Development
+		{57157184-C871-DEA6-6D8E-41FC783945F8}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8377725-639F-4317-9034-B4947D3A3857}
+	EndGlobalSection
+EndGlobal
